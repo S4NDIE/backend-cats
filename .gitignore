@@ -1,0 +1,40 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Dependency directories
+/target/
+*/target/
+
+# Maven files
+/.mvn/
+!/.mvn/wrapper/maven-wrapper.jar
+!/.mvn/wrapper/maven-wrapper.properties
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Eclipse
+.settings/
+.classpath
+.project
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Gradle files
+.gradle/
+build/
+
+# Generated files
+*.jar
+*.war
+
+# Spring Boot specific
+spring.log
