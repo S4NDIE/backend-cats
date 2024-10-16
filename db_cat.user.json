@@ -1,0 +1,14 @@
+[{
+  "_id": "1053853",
+  "fullName": "Usuario de prueba",
+  "email": "test@test.com",
+  "password": "$2a$10$ZofUvI7RXcAD4/fKVYd13O5fjgtEfxB1EEqy7kNzhRGdCHzWxEaSu",
+  "_class": "com.backendcats.model.User"
+},
+{
+  "_id": "2423",
+  "fullName": "Usuario dos de prueba",
+  "email": "prueba@prueba",
+  "password": "$2a$10$Up6ybtlnTtxVNBV66s.vie8UWVRRNiDUD4cPwtQeKIK7oPckf3GCS",
+  "_class": "com.backendcats.model.User"
+}]
